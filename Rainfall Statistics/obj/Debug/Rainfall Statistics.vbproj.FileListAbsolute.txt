@@ -1,0 +1,20 @@
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.exe.config
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.exe
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.pdb
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.xml
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall_Statistics.Form1.resources
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall_Statistics.Resources.resources
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.vbproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.exe
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.xml
+\\mac\home\documents\visual studio 2012\Projects\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.pdb
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.exe.config
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.exe
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.xml
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.pdb
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.exe
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.pdb
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.xml
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall_Statistics.Form1.resources
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall_Statistics.Resources.resources
+\\Mac\Home\Documents\Programming Assignments\Rainfall Statistics\Rainfall Statistics\obj\Debug\Rainfall Statistics.vbproj.GenerateResource.Cache
